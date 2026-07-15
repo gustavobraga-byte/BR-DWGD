@@ -158,7 +158,7 @@ pip install xarray netcdf4 geopandas openpyxl shapely numpy pandas gdown matplot
 ## Fonte de dados
 
 - **BR-DWGD (Xavier et al., 2016)** 
-- Xavier, A. C., C. W. King, and B. R. Scanlon. 2016. “Daily Gridded Meteorological Variables in Brazil (1980–2013).” International Journal of Climatology 36, no. 6: 2644–2659. https://doi.org/10.1002/joc.4518. 
+- Xavier, A. C., Scanlon, B. R., King, C. W., & Alves, A. I. (2022). New improved Brazilian daily weather gridded data (1961–2020). International Journal of Climatology, 42(16), 8390– 8404. https://doi.org/10.1002/joc.7731
 - Downloads mensais (~5 MB/var) e diários (v3.2.4) via Google Drive (ver `SKILL.md`, seção 2).
 
 ---
